@@ -1,2 +1,2 @@
 # react-multiselect-test
-React text template
+React test template
